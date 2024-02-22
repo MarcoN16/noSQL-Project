@@ -31,7 +31,7 @@ I used the following questions to delve into the database and extract the necess
 
 - What are the top 5 establishments with a RatingValue of 5, sorted by the lowest hygiene score, nearest to the restaurant, "Penang Flavours"?
 
-- How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and list the top ten local authority areas
+- How many establishments in each Local Authority area have a hygiene score of 0? The results are sorted from highest to lowest, and list the top ten local authority areas
 
 <img width="206" alt="lowest_hygiene_score" src="https://github.com/MarcoN16/nosql-challenge/assets/150491559/281b8e8a-d3e0-4b7b-815d-77a85280132c">
 
