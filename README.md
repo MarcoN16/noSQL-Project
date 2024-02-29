@@ -1,4 +1,5 @@
-# nosql-challenge
+# nosql-Project
+
 The UK Food Standards Agency evaluates various establishments across the United Kingdom and assigns them a food hygiene rating. In this project, I analyze some of the ratings data to assist journalists from a food magazine and food critics in deciding where to focus future articles. The code for this project has been written in a Jupyter Notebook and is divided into two parts:
 
 ## Part 1: Database and Jupyter Notebook Setup
